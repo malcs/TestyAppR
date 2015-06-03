@@ -18,3 +18,5 @@ CMalc::~CMalc()
 }
 
 // My change locally
+
+// Master but not local
