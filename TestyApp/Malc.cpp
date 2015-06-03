@@ -10,3 +10,5 @@ CMalc::CMalc()
 CMalc::~CMalc()
 {
 }
+
+// My change locally
