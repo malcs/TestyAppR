@@ -6,9 +6,5 @@ CMalc::CMalc()
 {
 }
 
-// An another one!
-CMalc::~CMalc()
-{
-}
 
 // My change locally
