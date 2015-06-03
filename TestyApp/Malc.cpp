@@ -6,7 +6,7 @@ CMalc::CMalc()
 {
 }
 
-
+// An another one!
 CMalc::~CMalc()
 {
 }
