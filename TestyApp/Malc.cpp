@@ -9,6 +9,7 @@ CMalc::CMalc()
 // An another one!
 CMalc::~CMalc()
 {
+	// Have this one
 	int i = 0;
 }
 
