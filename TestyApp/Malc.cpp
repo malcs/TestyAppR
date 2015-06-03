@@ -6,6 +6,8 @@ CMalc::CMalc()
 {
 }
 
+// Ready to pull!
+
 // A remote comment 
 
 // A local comment
