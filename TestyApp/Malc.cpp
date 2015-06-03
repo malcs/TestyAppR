@@ -23,4 +23,4 @@ CMalc::~CMalc()
 
 // My change locally
 
-// Master but not local
+// Master but not local (sorry, I mean new version)
