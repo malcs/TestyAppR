@@ -6,6 +6,8 @@ CMalc::CMalc()
 {
 }
 
+// A remote comment 
+
 // An another one!
 CMalc::~CMalc()
 {
