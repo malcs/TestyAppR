@@ -6,9 +6,13 @@ CMalc::CMalc()
 {
 }
 
+// Ready to pull!
+
 // A remote comment 
 
 // A local comment
+
+// Something for the new version
 
 // An another one!
 CMalc::~CMalc()
