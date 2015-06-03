@@ -10,6 +10,8 @@ CMalc::CMalc()
 
 // A local comment
 
+// Something for the new version
+
 // An another one!
 CMalc::~CMalc()
 {
